@@ -1,0 +1,2 @@
+# GBC_ADVANCED_SMART_CONTRACTS_Final_Assignment
+For the task of ADVANCED SMART CONTRACTS at GBC
