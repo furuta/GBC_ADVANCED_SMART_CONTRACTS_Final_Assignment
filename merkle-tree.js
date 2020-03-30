@@ -3,9 +3,9 @@ const ethers = require('ethers');
 const { soliditySha3 } = require("web3-utils");
 
 if (process.argv.length < 4) {
-    console.error("Voter-list merkle tree calculator v1.0.0");
-    console.error("    node voter-tree.js root <addresses-file>");
-    console.error("    node voter-tree.js proof <addresses-file> <address-to-prove>");
+    console.error("Airdrop-list merkle tree calculator v1.0.0");
+    console.error("    node merkle-tree.js root <addresses-file>");
+    console.error("    node merkle-tree.js proof <addresses-file> <address-to-prove>");
     process.exit(1);
 }
 
